@@ -1,0 +1,1 @@
+# Excercises from [Rust book, Chapter 8](https://doc.rust-lang.org/book/ch08-03-hash-maps.html#summary)
